@@ -1,0 +1,13 @@
+Database- Day -2: MySQL
+23/02/2024 - Friday - 6:00 PM : 9:00 PM
+
+Contents:
+Normalization, select queries, joins
+DB model design
+Intro to MongoDB & installation of Mongodb
+
+Pre-read:
+https://dev.mysql.com/doc/
+
+Activities
+Design DB model for Guvi Zen class
